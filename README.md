@@ -1,2 +1,2 @@
-# Thardous
-Thardous Game 
+# Thrarduous
+Thrarduous!
